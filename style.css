@@ -1,0 +1,17 @@
+body {
+	margin:0 auto;
+	width: 960px;
+	padding:0;
+	font-size: 16px;
+	font-family: arial, sans-serif;
+	line-height: 1.5;
+}s
+h1{font-size:30px;}
+.block{}
+#block-1{}
+#block-2 {background-image: url(images/header_bg.jpg) 100% 100% no-repeat;}
+#block-3{}
+.block-content{}
+.buttons{}
+#menu{}
+#logo{float:left;}
